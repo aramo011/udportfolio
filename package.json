@@ -1,0 +1,8 @@
+{
+  "name": "grunt-udportfolio",
+  "version": "1.0.0",
+  "description": "Metadata Grunt Udportfolio",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
