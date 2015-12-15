@@ -6,8 +6,13 @@ module.exports = function(grunt) {
 				options: {
 					base: './',
 					css: ['css/style.css',],
-					width: 320,
-					height: 70
+					dimensions: [{
+						width: 320,
+						height: 70
+					}, {
+						width: 1200,
+						height: 900
+					}]
 				},
 				src: 'index-test.html',
 				dest: 'index.html'
