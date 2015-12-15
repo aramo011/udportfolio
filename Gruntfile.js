@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 					height: 70
 				},
 				src: 'index-test.html',
-				dest: 'index-critical-test.html'
+				dest: 'index.html'
 			}
 		}
 
